@@ -1,14 +1,17 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/aonikenkdev/.github/main/assets/aonikenk-mark.svg" width="110" alt="Aonikenk.dev Logo" />
+<img src="./assets/aonikenk-dev-mark-main.png" width="250" alt="aonikenk.dev Logo"/>
 
 # aonikenk.dev
 
-### Minimal digital systems from Patagonia.
-
 Software · Branding · Solutions
 
-[Website](https://aonikenk.dev) · [Contact](mailto:hola@aonikenk.dev)
+🗻 Patagonia, Argentina.
+
+<!-- #### *Crafted at the edge.* -->
+
+
+[Website](https://aonikenk.dev) · [Contact](mailto:hello@aonikenk.dev)
 
 </div>
 
@@ -16,9 +19,9 @@ Software · Branding · Solutions
 
 ## About
 
-Aonikenk.dev is a digital development studio focused on modern software systems, minimal interfaces and strong visual identity.
+***aonikenk.dev*** is a digital development studio focused on modern software systems, minimal interfaces and strong visual identity. We craft with character and design digital experiences that convert.
 
-Built from Patagonia.
+> ***Crafted at the edge.*** Built from Patagonia, Argentina.
 
 We create:
 
@@ -29,6 +32,8 @@ We create:
 - UI Systems
 - Digital Branding
 - AI Integrations
+- Networking: wiring components for buildings, commercial networks, rugged housing
+- Security: alarm systems, door control
 
 ---
 
@@ -52,8 +57,8 @@ More precision.
 ## Stack
 
 ```txt
-Frontend  → Next.js · React · Tailwind · TypeScript
-Backend   → .NET · Node.js · Express
+Backend   → .NET · Node.js · Express.js
+Frontend  → React.js · Next.js · Javscript · TypeScript
 Database  → PostgreSQL · SQL Server · MongoDB
 Cloud     → Azure · Vercel · Cloudflare
-AI        → OpenAI · Agents · Automation
+AI        → OpenAI · Claude · Agents · Automation
